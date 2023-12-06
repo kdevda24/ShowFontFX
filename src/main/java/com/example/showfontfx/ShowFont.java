@@ -1,6 +1,4 @@
-//Name: Kanishk Devda
-//Pace ID: U01941286
-//Class day: Saturday(02 Dec)
+
 package com.example.showfontfx;
 
 import javafx.application.Application;
